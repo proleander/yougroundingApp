@@ -6,6 +6,8 @@
 
 ### Funcionalidades
 
+ - ** Projetado com auxilio de psicologos e formulários para aplicar respostas visuais e icentivos para sair da crise 
+
 - **Técnica 5-4-3-2-1**: Guias passo a passo para praticar a técnica de grounding, que envolve identificar:
   - 5 coisas que você pode ver
   - 4 coisas que você pode tocar
